@@ -1,0 +1,110 @@
+.navbar {
+  list-style: none;
+  margin: 0 auto;
+  padding: 0;
+  overflow: hidden;
+  width: 90%;
+
+    
+}
+header{
+  background: rgba(133, 189, 226, 0.863);
+}
+.wrapper > div   {
+
+padding:1em;
+
+}
+
+
+.wrapper {
+    display:grid;
+    grid-template-columns: 4fr 1fr ;
+    grid-column-gap:1em;
+  
+    
+    
+    
+}
+
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+
+  }
+
+  
+  nav li {
+    float: right;
+    display: inline-block;
+    margin-left: 70px;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 10px 12px;
+    text-decoration: none;
+    list-style: none;
+    text-transform: uppercase;
+    font-size: 14px;
+  }
+  
+ 
+  li a:hover {
+
+  }
+  body{
+      margin: 0;
+      background-color: rgba(255, 255, 255, 0.801);
+      font-family: 'comic neue', cursive;
+      color: rgba(23, 114, 189, 0.911) 
+      
+
+
+
+      
+
+  }
+  #profilepic   {
+      border-radius: 100px;
+      margin: 1em;
+  }
+  .name{
+      font-family:  arial; 
+      float: left;
+      
+      
+  }
+  #codingtemple{
+    float:  left;
+    margin-right: 10px;
+    
+
+  }
+  .fa-facebook{
+    text-decoration: none;
+    padding:10px;
+    color: rgba(133, 189, 226, 0.863);
+  }
+  .fa-twitter{
+    text-decoration: none;
+    padding:10px;
+    color: rgba(133, 189, 226, 0.863);
+  }
+  .fa-linkedin{
+    text-decoration: none;
+    padding:10px;
+    color: rgba(133, 189, 226, 0.863);
+  }
+  .fa-github{
+    text-decoration: none;
+    padding:10px; 
+    color: rgba(133, 189, 226, 0.863);
+  }
+  .sidebar{
+  
+  }
